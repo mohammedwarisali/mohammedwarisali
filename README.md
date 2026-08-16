@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Mohammed Waris Ali
 
-<!--
-**mohammedwarisali/mohammedwarisali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning programming and software development.
+- 💻 I'm building projects to improve my coding skills.
+- 🚀 I'm interested in learning new technologies.
+- 📚 I'm continuously improving my Git and GitHub skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- HTML
+- Git & GitHub
+- Programming
+- Web Development
+
+## 📂 Projects
+
+I'm working on projects to practice my skills and build my portfolio.
+
+## 📫 Connect With Me
+
+- GitHub: [@mohammedwarisali](https://github.com/mohammedwarisali)
