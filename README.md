@@ -1,9 +1,3 @@
-<p align="left">
-  <img src="./WhatsApp%20Image%202026-08-24%20at%2023.07.15.jpeg"
-       width="180"
-       height="180"
-       alt="Profile Photo">
-</p>
 
 
 # Hi there 👋 I'm Mohammed Waris Ali
